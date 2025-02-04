@@ -30,7 +30,7 @@ h4 {
     border:3mm ridge #500C35;
     background-color:#F9C29E;
     padding: 3mm;
-    margin: 0.5em 30em 2em 30em; 
+    margin: 0.5em 10em 2em 10em; 
 }
 #side8body {
     background-image: url(D7YntY9XYAEnO7y.jpg);
@@ -45,7 +45,7 @@ h4 {
     background-color: white;
     padding: 10px;
     padding-top: 20px;
-    margin: 2em 10em 0em 10em;
+    margin: 2em 2em 0em 2em;
 }
 #side8captionwrap {
     border-radius: 5px;
@@ -54,7 +54,7 @@ h4 {
     background-color: white;
     padding: 1em;
     padding-bottom: 2em;
-    margin: -0.99em 25em 2em 25em;
+    margin: -0.99em 5em 2em 5em;
 }
 #side8infowrap {
     color:#64F57D; 
@@ -64,5 +64,5 @@ h4 {
     font-family: 'Courier New', monospace;
     font-size: large;
     font-weight: bold;
-    margin: 3em 60em 0em 60em;
+    margin: 3em 5em 20em 5em;
 }
