@@ -30,5 +30,39 @@ h4 {
     border:3mm ridge #500C35;
     background-color:#F9C29E;
     padding: 3mm;
-    margin: 0.5em 16em 2em 16em; 
+    margin: 0.5em 30em 2em 30em; 
+}
+#side8body {
+    background-image: url(D7YntY9XYAEnO7y.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    text-align: center;
+    background-color :white;
+}
+#side8titlewrap {
+    border-radius: 5px;
+    border: 4mm ridge#3184D3;
+    background-color: white;
+    padding: 10px;
+    padding-top: 20px;
+    margin: 2em 10em 0em 10em;
+}
+#side8captionwrap {
+    border-radius: 5px;
+    border: 4mm ridge#3184D3;
+    border-top: 1em white;
+    background-color: white;
+    padding: 1em;
+    padding-bottom: 2em;
+    margin: -0.99em 25em 2em 25em;
+}
+#side8infowrap {
+    color:#64F57D; 
+    background-color: #345E48;
+    border: 2mm ridge #536258;
+    padding: 2em;
+    font-family: 'Courier New', monospace;
+    font-size: large;
+    font-weight: bold;
+    margin: 3em 60em 0em 60em;
 }
