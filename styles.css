@@ -93,3 +93,15 @@ h4 {
 #calcbutton {
     margin: 0.5em 1em 1em 1em;
 }
+#hosttop {
+    border-radius: 5px;
+    background-color: #AF1416;
+    padding: 10px;
+    margin: 0.5em 1em 0em 1em;
+}
+#hostbottom {
+    border-radius: 5px;
+    background-color: #AF1416;
+    padding: 10px;
+    margin: 0.5em 1em 0em 1em;
+}
