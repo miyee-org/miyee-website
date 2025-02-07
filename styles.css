@@ -30,12 +30,10 @@ h4 {
     border:3mm ridge #500C35;
     background-color:#F9C29E;
     padding: 3mm;
-    margin: 0.5em 10em 2em 10em; 
+    margin: 0.5em 30em 2em 30em; 
 }
 #side8body {
-    background: url(D7YntY9XYAEnO7y.jpg);
-    height: 100%;
-    background-position: center;
+    background-image: url(D7YntY9XYAEnO7y.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     text-align: center;
@@ -47,7 +45,7 @@ h4 {
     background-color: white;
     padding: 10px;
     padding-top: 20px;
-    margin: 2em 2em 0em 2em;
+    margin: 2em 10em 0em 10em;
 }
 #side8captionwrap {
     border-radius: 5px;
@@ -56,7 +54,7 @@ h4 {
     background-color: white;
     padding: 1em;
     padding-bottom: 2em;
-    margin: -0.99em 5em 2em 5em;
+    margin: -0.99em 25em 2em 25em;
 }
 #side8infowrap {
     color:#64F57D; 
@@ -66,5 +64,32 @@ h4 {
     font-family: 'Courier New', monospace;
     font-size: large;
     font-weight: bold;
-    margin: 3em 5em 20em 5em;
+    margin: 3em 60em 0em 60em;
+}
+#pickbody {
+    text-align: center;
+    background-color: #0071ce;
+    color:white;
+    font-family:sans-serif;
+    font-weight: bold;
+}
+
+#picktitlewrap {
+    border: 2mm solid #ffc220;
+    background-color: white;
+    font-size: x-large;
+    padding: 3mm;
+    color: #0071ce;
+    margin: 0.5em 4em 2em 4em;
+}
+
+#pickinfowrap {
+    font-size:large;
+    margin: 0.5em 1em 0em 1em;
+}
+#usernum {
+    margin: 0.5em 1em 2em 1em;
+}
+#calcbutton {
+    margin: 0.5em 1em 1em 1em;
 }

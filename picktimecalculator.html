@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pick Time Calculator</title>
+        <link rel="icon" href="logo_walmart_new-logo_www-walmart-com_dian-hasan-branding_us-3.png">
+        <link rel="stylesheet" href="styles.css" type="text/css">
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js" integrity="sha256-VazP97ZCwtekAsvgPBSUwPFKdrwD3unUfSGVYrahUqU=" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+        $(document).ready( function() {
+
+            $("#calcbutton").on("click", function() {
+
+                 //obtain user input
+                 var itemnum = parseFloat( $("#usernum").val() );
+
+                 //calculate pick time
+                 var picktime = itemnum / 1.7;
+
+                 //construct output
+                 var msg = "<div>Your " + itemnum + " item pickwalk should take " + picktime.toFixed(1) + " minutes.";
+
+                 //display output
+		         $("#output").html( msg )
+
+            } ); // ends click handler
+
+        } ); // ends document.ready
+
+    </script>
+    </head>
+    <body id="pickbody">
+        <div id="picktitlewrap">Pick Time Calculator </div>
+
+        <div id="pickinfowrap">Enter the number of items in your pickwalk.</div>
+
+        <div><input type="number" id="usernum"> </div>
+
+        <div><input type="button" value="Calculate Pick Time" id="calcbutton"></div>
+
+        <div id="output"></div>
+
+    </body>
+</html>
