@@ -60,11 +60,12 @@ h4 {
     color:#64F57D; 
     background-color: #345E48;
     border: 2mm ridge #536258;
-    padding: 2em;
     font-family: 'Courier New', monospace;
     font-size: large;
     font-weight: bold;
-    margin: 3em 5em 20em 5em;
+    padding: 15px 5px 15px 5px;
+    margin: 40px auto 0px auto;
+    width: 700px;
 }
 #pickbody {
     text-align: center;
