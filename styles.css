@@ -33,11 +33,11 @@ h4 {
     margin: 0.5em 20em 2em 20em; 
 }
 #side8body {
-    background-image: url(D7YntY9XYAEnO7y.jpg);
+    background: url(D7YntY9XYAEnO7y.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     text-align: center;
-    background-color :white;
+    color :white;
 }
 #side8titlewrap {
     border-radius: 5px;
