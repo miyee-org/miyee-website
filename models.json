@@ -3,12 +3,48 @@
         "name": "RX-78-2 Gundam 3.0",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
-        "release_year": 1995
+        "release_year": 2013
     },
     {
         "name": "Char's Zaku II 2.0",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2007
+    },
+    {
+        "name": "Freedom Gundam 2.0",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2016   
+    },
+    {
+        "name": "Justice Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2016   
+    },
+    {
+        "name": "Zeta Gundam Ver Ka.",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2023   
+    },
+    {
+        "name": "Gundam MK-II (AEUG Color) 2.0",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2005
+    },
+    {
+        "name": "Hyaku Shiki 2.0",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2015   
+    },
+    {
+        "name": "Gundam Epyon",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "MG",
+        "release_year": 2011   
     }
 ]
