@@ -46,5 +46,88 @@
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2011   
+    }, 
+    {
+        "name": "STTS-909 Rising Freedom Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    },
+    {
+        "name": "STTS-808 Immortal Justice Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    },
+    {
+        "name": "ZGMF/A-262DP-P Mighty Strike Freedom Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    },
+    {
+        "name": "ZGMF-X191M2 Infinite Justice Gundam Type-II",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    },
+    {
+        "name": "ZGMF/A-42S2 Destiny Gundam Spec II",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    },
+    {
+        "name": "ZGMF-103HD Lightning Buster Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2024  
+    }, {
+        "name": "GF-13-017NJII God Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "RG",
+        "release_year": 2022  
+    },
+    {
+        "name": "GF-13-050NSW Nobell Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2011  
+    },
+    {
+        "name": "GAT-X105 + AQM/E-X01 Aile Strike Gundam",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "EG",
+        "release_year": 2024  
+    },
+    {
+        "name": "XVX-016 Gundam Aerial",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2022  
+    },
+    {
+        "name": "FP/A-77 Gundam Pharact",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2022  
+    },
+    {
+        "name": "MD-0064 Darilbalde",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2022  
+    },
+    {
+        "name": "MDX-0003 Gundam Schwarzette",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2023  
+    },
+    {
+        "name": "X-EO1 Gundam Calibarn",
+        "image": "elementor-placeholder-image.webp",
+        "grade": "HG",
+        "release_year": 2023  
     }
 ]
