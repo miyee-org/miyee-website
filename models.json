@@ -1,48 +1,48 @@
 [
     {
-        "name": "RX-78-2 Gundam 3.0",
+        "name": "RX-78-2 Gundam",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2013
     },
     {
-        "name": "Char's Zaku II 2.0",
+        "name": "MS-06S Char's Zaku II",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2007
     },
     {
-        "name": "Freedom Gundam 2.0",
+        "name": "ZGMF-X10A Freedom Gundam",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2016   
     },
     {
-        "name": "Justice Gundam",
+        "name": "ZGMF-X09A Justice Gundam",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2016   
     },
     {
-        "name": "Zeta Gundam Ver Ka.",
+        "name": "MSZ-006 Zeta Gundam",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2023   
     },
     {
-        "name": "Gundam MK-II (AEUG Color) 2.0",
+        "name": "RX-178 Gundam MK-II",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2005
     },
     {
-        "name": "Hyaku Shiki 2.0",
+        "name": "MSN-00100 Hyaku Shiki",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2015   
     },
     {
-        "name": "Gundam Epyon",
+        "name": "OZ-13MS Gundam Epyon",
         "image": "elementor-placeholder-image.webp",
         "grade": "MG",
         "release_year": 2011   
